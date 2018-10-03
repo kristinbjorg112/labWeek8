@@ -1,6 +1,6 @@
 function greeting(name)
 {
-	return "hello, " + name + "!";
+	return "Hello, " + name + "!";
 }
 
 module.exports = greeting;
